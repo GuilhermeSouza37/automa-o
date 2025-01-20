@@ -1,5 +1,4 @@
 #1 - Entrar no sistema 
-    #Link: http://dlp.hashtagtreinamentos.com/python/intensivao/login
 #2 - Fazer Login
 #3 - importar banco de dados
 #4 - Cadastrar Produtos
